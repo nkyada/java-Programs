@@ -1,4 +1,3 @@
-//Java Program to convert all primitives into its corresponding   
 //wrapper objects and vice-versa  
 public class Wrapper{  
 public static void main(String args[]){  
@@ -10,8 +9,7 @@ float f=50.0F;
 double d=60.0D;  
 char c='a';  
 boolean b2=true;  
-  
-//Autoboxing: Converting primitives into objects  
+   
 Byte byteobj=b;  
 Short shortobj=s;  
 Integer intobj=i;  
